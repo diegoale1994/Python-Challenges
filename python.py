@@ -249,9 +249,22 @@ while(est==False):
 	print (num%5)
 	num = int(num/5)
 '''
-class Carro():
-	largo = 4.5
-	ancho = 1.2
-	ruedas = 4
-	enmarcha = False
+rotate
+ int[] numeros = {1,2,3,4,5};
+      /*  for (int j = 0; j < 5; j++) {
+            
+        
+      int x = numeros[0];
+        for (int i = 0; i < numeros.length-1; i++) {
+            numeros[i]= numeros[i+1];
+        }
+       numeros[numeros.length-1]=x;
+         for (int i = 0; i < numeros.length; i++) {
+            System.out.println(numeros[i]);
+        }
+       
+        }
+      
+        
+    }*/
 	
